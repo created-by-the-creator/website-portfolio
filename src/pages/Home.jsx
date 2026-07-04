@@ -156,7 +156,7 @@ export default function Home() {
               </Link>
             </div>
 
-            <a href="src/assets/resume.pdf" download style={{
+            <a href="/resume.pdf" download style={{
               display: 'flex',
               width: '100%',
               padding: '14px 28px',
