@@ -1,16 +1,103 @@
-# React + Vite
+# PERSONAL PORTFOLIO
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my personal portfolio website! This project showcases my skills, projects, and experiences as an aspiring software developer. It was built to serve as a central place where visitors can learn more about me, explore my work, and get in touch.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+* Responsive design for desktop, tablet, and mobile devices
+* Modern and clean user interface
+* About Me section
+* Skills showcase
+* Featured projects with live demos and source code
+* Contact information and social media links
+* Smooth navigation and interactive user experience
 
-## React Compiler
+## Built With
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+* React
+* Vite
+* React Router
+* React Icons
+* HTML5
+* CSS3
+* JavaScript (ES6+)
 
-## Expanding the ESLint configuration
+## Getting Started
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### Prerequisites
+
+Make sure you have the following installed:
+
+* Node.js (v18 or later recommended)
+* npm
+
+### Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/created-by-the-creator/website-portfolio.git
+```
+
+Navigate to the project directory:
+
+```bash
+cd portfolio
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Start the development server:
+
+```bash
+npm run dev
+```
+
+The application will be available at:
+
+```
+http://localhost:5173
+```
+
+## 📦 Production Build
+
+To create a production build:
+
+```bash
+npm run build
+```
+
+To preview the production build locally:
+
+```bash
+npm run preview
+```
+
+## Project Structure
+
+```
+src/
+├── assets/
+├── components/
+├── pages/
+├── App.jsx
+├── main.jsx
+└── index.css
+```
+## 🤝 Connect With Me
+
+* GitHub: https://github.com/created-by-the-creator
+* LinkedIn: https://linkedin.com/in/venice-anne-manacop
+* Email: manacopveniceanne@gmail.com
+
+## 📄 License
+
+This project is licensed under the MIT License. Feel free to explore the code for learning purposes.
+
+---
+
+Thank you for visiting my portfolio! If you have any feedback or would like to collaborate, feel free to reach out.
